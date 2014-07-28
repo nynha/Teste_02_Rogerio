@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "eba funcionou"
+echo "vms voltou"
+
         ?>
     </body>
 </html>
