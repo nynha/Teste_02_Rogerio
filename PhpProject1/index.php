@@ -11,9 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "eba funcionou"
-echo "vms voltou"
-
+        echo "eba funcionou";
+        echo "vms voltou";
+        echo "vms ver se vai dnovo";
         ?>
     </body>
 </html>
