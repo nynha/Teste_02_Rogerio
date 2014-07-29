@@ -15,6 +15,7 @@ and open the template in the editor.
         echo "vms voltou";
         echo "vms ver se vai dnovo";
         echo "mais um teste terça-feira";
+        echo "teste local para remoto"
         ?>
     </body>
 </html>
