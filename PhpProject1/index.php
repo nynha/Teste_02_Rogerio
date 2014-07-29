@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "eba funcionou";
         echo "vms voltou";
         echo "vms ver se vai dnovo";
+        echo "mais um teste terça-feira";
         ?>
     </body>
 </html>
